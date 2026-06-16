@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @m_4_malshan
-- 👀 I’m interested in data engineering 
-- 🌱 I’m currently learning data engineering technologies 
+- Trying veey west ti stay away from tech ;)
 
 <!---
 m_4_malshan/m_4_malshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
